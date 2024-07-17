@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Recommender System**
 
-- 🌱 I’m currently learning **Spark, R, Web Development**
+- 🌱 I’m currently learning **Spark, R, Web Development, NLP, LLMS**
 
 - 💬 Ask me about **Python, Power BI, ML, AI**
 
