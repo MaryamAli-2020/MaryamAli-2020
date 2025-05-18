@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves building coo
 
 ## 📫 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ali-972677230/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-hesham-portfolio.vercel.app)
 ---
 
 ⭐ **Fun Fact**: I love automating boring tasks and turning coffee into code! ☕💻
