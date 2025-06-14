@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves building coo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2496ED?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ### **Data & Visualization**
