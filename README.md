@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves building coo
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves building coo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ### **Data & Visualization**
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -59,10 +62,6 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves building coo
 - **Data Science**: Analyzing data, creating visualizations, and predictive models.
 - **Machine Learning & NLP**: Developing AI-powered solutions.
 - **Automation & DevOps**: Streamlining workflows with Docker and CI/CD.
-
-
-## 📊 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamAli-2020&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAli-2020&layout=compact&theme=radical)
 
